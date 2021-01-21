@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.ctr{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    padding: 20px;
+    display: grid;
+}
